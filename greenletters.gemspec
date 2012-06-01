@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.email = %q{avdi@avdi.org}
   s.executables = ["greenletters"]
   s.extra_rdoc_files = ["History.txt", "bin/greenletters", "version.txt"]
-  s.files = [".gitignore", "History.txt", "README.org", "Rakefile", "bin/greenletters", "examples/adventure.rb", "examples/cucumber/adventure.feature", "examples/cucumber/greenletters.log", "examples/cucumber/support/env.rb", "lib/greenletters.rb", "lib/greenletters/cucumber_steps.rb", "script/console", "spec/greenletters_spec.rb", "spec/spec_helper.rb", "test/test_greenletters.rb", "version.txt"]
+  s.files = [".gitignore", "History.txt", "README.org", "Rakefile", "bin/greenletters", "examples/adventure.rb", "examples/cucumber/adventure.feature", "examples/cucumber/support/env.rb", "lib/greenletters.rb", "lib/greenletters/cucumber_steps.rb", "script/console", "spec/greenletters_spec.rb", "spec/spec_helper.rb", "test/test_greenletters.rb", "version.txt"]
   s.homepage = %q{http://github.com/avdi/greenletters}
   s.rdoc_options = ["--main", "README.org"]
   s.require_paths = ["lib"]
